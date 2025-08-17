@@ -82,11 +82,3 @@ ESP32-FM-Transmitter/
 
 ---
 
-## 📜 License
-
-This project is released under the **MIT License**.
-See [LICENSE](LICENSE) for details.
-
----
-
-👉 Would you like me to make it in **Spanish** too so you can have a bilingual README, or do you prefer to keep it only in English?
