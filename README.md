@@ -30,7 +30,7 @@ It loads a `.wav` file from **SPIFFS** and broadcasts it on the FM band (default
 
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * ESP32 board support installed
-* [ESP32 FM Transmitter Library](https://github.com/karawin/ESP32-FM-Transmitter)
+* [ESP32 FM Transmitter Library](https://github.com/Alexxdal/ESP32FMRadio)
 * SPIFFS Upload Tool for Arduino IDE
 
 ---
