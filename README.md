@@ -53,7 +53,7 @@ ESP32-FM-Transmitter/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ESP32-FM-Transmitter.git
+   git clone https://github.com/yaggy0280/ESP32-FM-Transmitter.git
    cd ESP32-FM-Transmitter
    ```
 
